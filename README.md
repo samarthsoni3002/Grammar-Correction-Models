@@ -4,12 +4,12 @@ This is a repository that houses state-of-the-art grammar correction models, eac
 # Overview
 This repository contains three distinct grammar correction models:
 
-- Character-Level Model
+- Character-Level Model - 
 A simple yet effective model that operates at the character level. It learns the structure of sentences character by character, making it ideal for correcting minor spelling and syntactic errors.
 
-- Word Embeddings Model
+- Word Embeddings Model - 
 This model takes advantage of GloVe word embeddings to capture the semantic meaning of words. It corrects grammatical errors based on the context provided by the surrounding words in the sentence.
 
-- Attention Model
+- Attention Model - 
 Inspired by the "Attention is All You Need" architecture, this model employs attention mechanisms to focus on key parts of a sentence. It provides superior accuracy by modeling long-range dependencies and word relationships more effectively.
 
