@@ -1,4 +1,4 @@
-# Grammar Correction Models
+# Grammarlytics: Performance Review
 This is a repository that houses state-of-the-art grammar correction models, each leveraging different techniques for improving text accuracy and fluency. Whether you're looking for a character-level approach, a word embedding-based method, or an advanced attention model, this repository provides the tools to correct grammatical errors in text efficiently.
 
 # Overview
